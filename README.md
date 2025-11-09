@@ -1,7 +1,7 @@
 # Parallel Image Processing
 
 This project demonstrates how **parallel processing** can speed up image filtering tasks using **Python threads**.  
-It applies filters such as **Grayscale**, **Blur**, and **Edge Detection** on songle image — both sequentially and in parallel — and compares their performance visually.
+It applies filters such as **Grayscale**, **Blur**, and **Edge Detection** on songle image both sequentially and in parallel and compares their performance visually.
 
 ---
 
