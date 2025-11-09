@@ -5,7 +5,17 @@ It applies filters such as **Grayscale**, **Blur**, and **Edge Detection** on so
 
 ---
 
-## 🧠 Project Description
+# Group Members
+
+- Hamza Ahmed Khan (2212341)
+- Sibtain Ahmed (2212271)
+- Munesh Kumar (2212260)
+- Pawan Mahesh (2212263)
+- Ahmed Ali Khokhar (2212243)
+
+---
+
+## Project Description
 
 Image processing tasks like applying filters can often be done independently on different parts of an image.  
 This project splits an image into chunks and processes them simultaneously using multiple threads to achieve faster results.
@@ -18,7 +28,7 @@ The app uses **Streamlit** for the graphical interface so users can:
 
 ---
 
-## ⚙️ Features
+## Features
 - Sequential and parallel implementations of image filters  
 - Adjustable number of threads  
 - Visual side-by-side comparison of results  
@@ -27,7 +37,7 @@ The app uses **Streamlit** for the graphical interface so users can:
 
 ---
 
-## 🛠️ Tools and Libraries
+## Tools and Libraries
 - **Python 3**
 - **Streamlit** (for the UI)
 - **Pillow (PIL)** (for image processing)
@@ -35,9 +45,9 @@ The app uses **Streamlit** for the graphical interface so users can:
 
 ---
 
-## 📦 Installation
+## Installation
 
-### 1️⃣ Clone or download the repository:
+### Clone or download the repository:
 ```bash
 git clone https://github.com/yourusername/Parallel_Image_Processing.git
 cd Parallel_Image_Processing
