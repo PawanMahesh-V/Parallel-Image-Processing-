@@ -816,3 +816,5 @@ Interpretation:
 ```bash
 git clone https://github.com/hamza-khan542/Parallel_Image_Processing.git
 cd Parallel_Image_Processing
+#   P a r a l l e l - I m a g e - P r o c e s s i n g -  
+ 
