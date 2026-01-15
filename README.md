@@ -39,11 +39,12 @@ Parallel_Image_Processing/
 ```
 
 ## Authors
-- Hamza Ahmed Khan (2212341)
-- Sibtain Ahmed (2212271)
-- Munesh Kumar (2212260)
-- Pawan Mahesh (2212263)
-- Ahmed Ali Khokhar (2212243)
+- Hamza Ahmed Khan
+- Sibtain Ahmed 
+- Munesh Kumar
+- Pawan Mahesh
+- Ahmed Ali Khokhar
 
 ---
 For questions or feedback, please open an issue or contact the authors.
+
