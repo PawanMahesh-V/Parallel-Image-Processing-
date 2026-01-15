@@ -7,7 +7,7 @@ import os
 st.set_page_config(layout="wide")
 
 st.title("Parallel Image Processing")
-
+st.subtitle("Group Members:")
 st.write("Hamza Ahmed Khan")
 st.write("Sibtain Ahmed")
 st.write("Munesh Kumar")
