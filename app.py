@@ -8,11 +8,11 @@ st.set_page_config(layout="wide")
 
 st.title("Parallel Image Processing")
 
-st.write("Hamza Ahmed Khan (2212341)")
-st.write("Sibtain Ahmed (2212271)")
-st.write("Munesh Kumar (2212260)")
-st.write("Pawan Mahesh (2212263)")
-st.write("Ahmed Ali Khokhar (2212243)")
+st.write("Hamza Ahmed Khan")
+st.write("Sibtain Ahmed")
+st.write("Munesh Kumar")
+st.write("Pawan Mahesh")
+st.write("Ahmed Ali Khokhar")
 
 st.write("---")
 
